@@ -17,7 +17,7 @@ The Iris dataset consists of 150 samples of Iris flowers, each with four feature
 
 ## Visualization
 
-![Clustered Iris Flowers](clustered_iris_flowers.jpg)
+![Clustered Iris Flowers](https://github.com/ArthreyaK/K-Means-Algorithm-on-IRIS-dataset/blob/main/Cluster%20Iris.jpg)
 
 The scatter plot above shows the Iris flowers clustered into three groups based on their sepal and petal areas. Each cluster is represented by a different color, and the centroids of the clusters are marked with black circles.
 
