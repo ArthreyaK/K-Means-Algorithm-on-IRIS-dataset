@@ -1,6 +1,6 @@
 # Iris Flower Clustering with K-Means
 
-![Iris Flowers](iris flower.jpg)
+![Iris Flowers](https://github.com/ArthreyaK/K-Means-Algorithm-on-IRIS-dataset/blob/main/iris%20flower.png)
 
 ## Overview
 
